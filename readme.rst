@@ -53,7 +53,7 @@ Pushing a text note
 
 .. code:: python
 
-    success, push = pb.push_note("This is the title", "This is the body".)
+    success, push = pb.push_note("This is the title", "This is the body.")
 
 Pushing an address
 ^^^^^^^^^^^^^^^^^^
